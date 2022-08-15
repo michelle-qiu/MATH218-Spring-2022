@@ -1,0 +1,1 @@
+Download all files for Lab 5. In the same directory, create a folder named img. Place all png and pdf files in that new folder.
